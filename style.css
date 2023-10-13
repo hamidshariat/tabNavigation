@@ -24,6 +24,7 @@ a {
   text-decoration: none;
   line-height: 10px;
 }
+
 header {
   position: relative;
   height: 160px;
@@ -32,10 +33,12 @@ header {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 header h1 {
   font-size: 20px;
   font-size: 1.25rem;
 }
+
 @media only screen and (min-width: 768px) {
   header {
     line-height: 225px;
